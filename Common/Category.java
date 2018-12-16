@@ -1,4 +1,4 @@
-package com.example.norskhaxor.coffeeshop.Common;
+package com.example.norskhaxor.coffeeshop.Common; //
 
 public class Category {
 
