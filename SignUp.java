@@ -16,7 +16,7 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 import com.rengwuxian.materialedittext.MaterialEditText;
 
-public class SignUp extends AppCompatActivity {
+public class SignUp extends AppCompatActivity { //testing
 
     MaterialEditText edtPhone, edtName, edtPassword;
 
